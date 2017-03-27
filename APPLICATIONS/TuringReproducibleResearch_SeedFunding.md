@@ -5,6 +5,11 @@
 ### Description and alignment with strategic aims
 *(1000 words)*
 
+In 2015, the Reproducibility Project by the Center for Open Science reported that 60% of psychology studies could not be reproduced. That is, when another group of scientists followed the same methods as in the originally published paper, they got a different answer. The headlines across international media outlets threw into sharp relief a key aspect of the status quo in scientific research: we simply do not know how generalisable a scientific finding is when we read just one study. Even worse, it is standard practise to publish findings without anyone but you ever seeing the data or the steps you took to analyse it.
+
+A tenant of the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is that evidence should be provided for any given result. In most cases, this means making available the underlying data and analysis code that the original experimenter ran. We would like to position the Alan Turing Institute as a world leader for reproducible research by making it easy for all members of the Institute to share their code and data (where ethically possible) such that any reader of their published research can verify their findings.
+
+
 Basically, what we want to do is make sure that all the work done in the Turing Institute is reproducible. What does that mean? Well, it means that when you say you've done a piece of research and you write up your results, someone else can actually check your working! They can run the exact same code as you on the exact same input data and get the same result.
 
 Seems bonkers that that doesn't exist, right? But it really isn't well adopted.
@@ -70,8 +75,15 @@ This Reproducible Research proposal benefits every one of the six priority secto
 
 We will work with all members of the Turing Institute to ensure they meet industry standard levels of ethical approval with respect to their sharing data. For example, we will provide guidance on how to share potentially identifiable data from human subjects, or to maintain the privacy of proprietary code.
 
+Link to expertise in British Library.
+
 Everyone benefits when we can trust academic research.
 
+***Metadata***
+
+***Lay summaries***
+
+Higher impact, more collaborations you didn't imagine.
 
 ### Outputs and Impact
 
