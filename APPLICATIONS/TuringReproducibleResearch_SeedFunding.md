@@ -5,14 +5,22 @@
 ### Description and alignment with strategic aims
 *(1000 words)*
 
-In 2015, the Reproducibility Project by the Center for Open Science reported that 60% of psychology studies could not be reproduced. That is, when another group of scientists followed the same methods as in the originally published paper, they got a different answer. The headlines across international media outlets threw into sharp relief a key aspect of the status quo in scientific research: we simply do not know how generalisable a scientific finding is when we read just one study. Even worse, it is standard practise to publish findings without anyone but you ever seeing the data or the steps you took to analyse it.
+***Introduction***
 
-A tenant of the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is that evidence should be provided for any given result. In most cases, this means making available the underlying data and analysis code that the original experimenter ran. We would like to position the Alan Turing Institute as a world leader for reproducible research by making it easy for all members of the Institute to share their code and data (where ethically possible) such that any reader of their published research can verify their findings.
+In 2015, the [Reproducibility Project: Psychology](http://dx.doi.org/10.1126/science.aac4716) by the [Center for Open Science](https://cos.io/) reported that 60% of psychology studies could not be reproduced. That is, when another group of scientists followed the same methods as in the originally published paper in a new sample of participants, they got a different answer. The problem is not limited to psychology. Early results from the [Reproducibility Project: Cancer Biology](https://elife.elifesciences.org/collections/reproducibility-project-cancer-biology) are not promising and we are no closer than we were in 2005 to disproving John Ioannidis' claim that "[Most published research findings are false](http://dx.doi.org/10.1371/journal.pmed.0020124)".
 
+These publications and the headlines about the scientific "[reproducibility crisis](http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)" across international media outlets threw into sharp relief a key aspect of the status quo in scientific research: *we simply do not know how generalisable a scientific finding is when we read just one study*. Even worse, it is standard practise to publish findings without anyone but you ever seeing the data or the steps you took to analyse it.
 
-Basically, what we want to do is make sure that all the work done in the Turing Institute is reproducible. What does that mean? Well, it means that when you say you've done a piece of research and you write up your results, someone else can actually check your working! They can run the exact same code as you on the exact same input data and get the same result.
+There is a key difference between finding the same result in a second study (as the Center for Open Science teams were investigating) and simply being able to check what someone else has done when they publish their work. It is in fact a tenant of the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) that evidence should be provided for any given result. ***We would like to position the Alan Turing Institute as a world leader for reproducible research*** by making it easy for all members of the Institute to share their code and data (where ethically possible) such that any reader of their published research can verify their findings.
 
-Seems bonkers that that doesn't exist, right? But it really isn't well adopted.
+***Accessible Data and Code***
+
+***An Open Source mentality***
+
+In order to know exactly what someone did with their data to get the results they have published in a paper, then we need their analysis steps.
+
+There are a few basic ways to share what you did to your data: protocols.io is the most simple: a recipe book that can be shared and updated by other researchers as they perform the same experiments. Stepping up a level is to provide the analysis code that a researcher used. Often, however, this is difficult to manage because there are many dependencies that must be installed before code can be run. This is where the Research Software Engineers come in. They have the expertise to clean up and generalise research analysis code to ensure that others can install and run it without any problems.
+
 
 HOWEVER the tide is changing. Journals are starting to require data be made available on submission (eg: Nature Human Behaviour) and reviewers who sign the PRO are refusing to assess manuscripts that do not make their data and analysis steps available.
 
@@ -105,21 +113,28 @@ The Reproducible Research seed funding will provide the following impact:
 
 ## Resources, Budget and Planning
 
+### Request
+
+* 26 days Martin O'Reilly's time: £10,000
+* 6 months full time or 12 months part time reproducible research liaison officer appointment: £20,000
+
 ### Justification
+
+The reproducible research liaison officer is costed at an annual salary of £30,000 with on-costs of £8,000. We anticipate that the word outlined will take around 6 months full time equivalent and have outlined a timeline accordingly. However, it may be challenging to recruit a qualified candidate for only 6 months and therefore we have kept open the possibility of bringing someone in at half time for 12 months.
+
+Dr O'Reilly is costed as dedicating 1 day per week to advancing reproducible research at the Turing Institute for 6 months at £450/day.
 
 ### Project Plan
 
 *(500 words)*
 
-**Project Plan**:
-
-*I don't know what to put in here.*
+*Note: It is not necessary to complete all sections of the project plan in the bullet points outlined on the application form. I've dropped "project plan" and put that information into the timeline and milestones sections.*
 
 **Timeline**:
 
 * **May**: Initial survey of Turing researchers to assess their needs & what resources are already available. Open recruitment for reproducible research liaison officer.
 * **June**: Interns arrive and contribute to onboarding documentation as they settle into the Turing.
-* **July & August**: Liaison officer formalises documentation and scales information. Receives feedback from interns and current Turing researchers willing to act as "early adopters".
+* **July & August**: Liaison officer joins Turing Institute. She formalises documentation and scales information. Receives feedback from interns and current Turing researchers willing to act as "early adopters".
 * **September - December**: First full run of onboarding and training with new graduate students. Continuous refinement through first term.
 
 **Milestones**:
