@@ -5,6 +5,20 @@
 ### Description and alignment with strategic aims
 *(1000 words)*
 
+**=== Potential shorter introduction from Martin (feel free to cherry pick / completely ignore as you see fit) ===**
+
+***Introduction***
+
+***We would like to position The Alan Turing Institute as a world leader for reproducible research*** by embedding a culture of "reproducible by default" at the institute and providing training and tools to make reproducible research "too easy not to do".
+
+Reproducibility ensures that the wider academic, industry and governmental communities we operate in can easily validate, replicate and build on the work we produce. This will help us extend the Turing's impact beyond the immediate outputs of the institute itself, providing a "force multiplier" effect on the progress of Data Science in the UK and beyond.
+
+We want the research outputs of the Turing to be seen as coming with a "quality seal of approval" that means the communities we operate in trust our research and want to work with our people. We want "Turing quality" to be a synonym for high-quality research and high-quality people.
+
+With an increasing focus on the scientific "reproducibility crisis" by the [academic](http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) and [popular](http://www.bbc.co.uk/news/science-environment-39054778) press, as well as by [government](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2015/inquiry6/),  ensuring that the Turing takes a leadership role in making research reproducible is more important than ever.
+
+**=== End of Martin's potential alternative introduction ===**
+
 ***Introduction***
 
 In 2015, the [Reproducibility Project: Psychology](http://dx.doi.org/10.1126/science.aac4716) by the [Center for Open Science](https://cos.io/) reported that 60% of psychology studies could not be reproduced. That is, when another group of scientists followed the same methods as in the originally published paper in a new sample of participants, they got a different answer. The problem is not limited to psychology. Early results from the [Reproducibility Project: Cancer Biology](https://elife.elifesciences.org/collections/reproducibility-project-cancer-biology) are not promising and we are no closer than we were in 2005 to disproving John Ioannidis' claim that "[Most published research findings are false](http://dx.doi.org/10.1371/journal.pmed.0020124)".
@@ -68,21 +82,22 @@ The *Reproducible Research at the Turing* seed funding will provide the followin
 
 * Individual researchers at the Turing Institute will benefit immediately as they will be able to access resources quickly and receive support in disseminating their work.
 * The partner universities will benefit as their associated publications will be reproducible, which is both faster and more efficient that "reinventing the wheel" each time, and allows submission to higher impact journals as TOP guidelines are adopted more widely.
-* The Turing will benefit by a strengthening of their brand as being world leaders in data science. We will build a culture of reproducibility within the Institute which will ensure all readers will trust output from the Alan Turing Institute. They will also receive more citations from the data and software papers that accompany traditional academic articles. * The wider data science community will benefit from the tools and open data sets provide by members of the Turing Institute. Furthermore, they will have concrete examples of how to ensure their own work is reproducible, improving the reliability of the field as a whole.
+* The Turing will benefit by a strengthening of their brand as being world leaders in data science. We will build a culture of reproducibility within the Institute which will ensure all readers will trust output from the Alan Turing Institute. They will also receive more citations from the data and software papers that accompany traditional academic articles.
+* The wider data science community will benefit from the tools and open data sets provide by members of the Turing Institute. Furthermore, they will have concrete examples of how to ensure their own work is reproducible, improving the reliability of the field as a whole.
 
 
 ## Resources, Budget and Planning
 
 ### Request
 
-* 26 days Martin O'Reilly's time: £10,000
+* 39 days Martin O'Reilly's time: £15,000
 * 6 months full time or 12 months part time reproducible research liaison officer appointment: £20,000
 
 ### Justification
 
 The reproducible research liaison officer is costed at an annual salary of £30,000 with on-costs of £8,000. We anticipate that the work outlined will take around 6 months full time equivalent and have outlined a timeline accordingly. However, it may be challenging to recruit a qualified candidate for only 6 months and therefore we have kept open the possibility of bringing someone in at half time for 12 months.
 
-Dr O'Reilly is costed as dedicating 1 day per week to advancing reproducible research at the Turing Institute for 6 months at £450/day.
+Dr O'Reilly is costed as dedicating 1.5 days per week to advancing reproducible research at the Turing Institute for 6 months at £450/day.
 
 ### Project Plan
 
